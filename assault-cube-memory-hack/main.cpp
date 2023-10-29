@@ -1,4 +1,4 @@
-﻿#include <Windows.h>
+#include <Windows.h>
 #include <TlHelp32.h>
 #include <iostream>
 #include <tchar.h>
@@ -128,6 +128,12 @@ int main()
     DWORD GravitationPtrAddr = GetPointerAddress(hwnd, gamebaseaddress1, GravitationAddr, GravitationOffsets);
 
 
+    // JumpHeight PosVision
+    DWORD JumpHeightAddr = 0x0017E0A8;
+    vector<DWORD> JumpHeightOffsets{ 0x38 };
+    DWORD JumpHeightPtrAddr = GetPointerAddress(hwnd, gamebaseaddress1, JumpHeightAddr, JumpHeightOffsets);
+
+
     // ZX PosVision
     DWORD ZXPosVisionAddr = 0x0017E0A8;
     vector<DWORD> ZXPosVisionOffsets{ 0x34 };
@@ -162,9 +168,9 @@ int main()
 
             if (GetAsyncKeyState(0x57) & 0x8000) { // W
                 if (zxPosVision <= 230 && zxPosVision >= 130) {
-                    ReadProcessMemory(phandle, (LPVOID*)(GravitationPtrAddr), &number2, sizeof(float), 0);
+                    ReadProcessMemory(phandle, (LPVOID*)(zx1PtrAddr), &number2, sizeof(float), 0);
                     number2 += 1.0f;
-                    WriteProcessMemory(phandle, (LPVOID*)(GravitationPtrAddr), &number2, sizeof(float), 0);
+                    WriteProcessMemory(phandle, (LPVOID*)(zx1PtrAddr), &number2, sizeof(float), 0);
 
                     Sleep(20);
                 }
