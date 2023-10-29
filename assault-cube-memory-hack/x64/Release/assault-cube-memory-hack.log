@@ -1,0 +1,59 @@
+﻿  main.cpp
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(21,39): warning C4311: 'type cast': pointer truncation from 'BYTE *' to 'DWORD'
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(21,39): warning C4302: 'type cast': truncation from 'BYTE *' to 'DWORD'
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(41,32): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(45,36): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(38,60): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(151,37): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(152,37): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(153,37): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(154,37): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(155,37): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(156,37): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(157,37): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(160,40): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(161,40): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(165,48): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(167,49): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(172,48): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(174,49): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(179,48): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(181,49): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(186,48): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(188,49): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(196,48): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(198,49): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(203,48): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(205,49): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(210,48): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(212,49): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(217,48): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(219,49): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(227,48): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(229,49): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(232,48): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(234,49): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(237,48): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(239,49): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(242,48): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(244,49): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(251,48): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(253,49): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(256,48): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(258,49): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(261,48): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(263,49): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(266,48): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(268,49): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(274,44): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(276,45): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(281,44): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(283,45): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID *' of greater size
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(54,23): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\ksale\source\repos\assault-cube-memory-hack\assault-cube-memory-hack\main.cpp(59,60): warning C4390: ';': empty controlled statement found; is this the intent?
+  Generating code
+  1 of 88 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  assault-cube-memory-hack.vcxproj -> C:\Users\ksale\source\repos\assault-cube-memory-hack\x64\Release\assault-cube-memory-hack.exe
